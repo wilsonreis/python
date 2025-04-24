@@ -5,601 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24424a55-8777-4b73-9025-fb843a04045a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AER RandomForest - Gradient Boosting.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algebra-Linear-com-Python-master/Conteúdo E - Aplicação de Matrizes/prog05-aplicacoes-matrizesV2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algebra-Linear-com-Python-master/Conteúdo N - Transformando um Círculo em uma Elípse/prog14_TransCircElip.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 01 - Introdução à Machine Learning/.ipynb_checkpoints/knn-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso-de-Machine-Learning-2025/Aula2/Codigo/visualizacao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso-de-Machine-Learning-2025/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear Regression in Machine learning/algoritimo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear Regression in Machine learning/comprovacao_formula.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear Regression in Machine learning/comprovacao_formula_04_matematicamente.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MIT6_042JS15_textbook.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ML/sup/knn/normalize_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ML/sup/knn/sao_carlos_02_normalizado.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ML/utils/outliers_remove.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks/01.08-More-IPython-Resources.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks/02.06-Boolean-Arrays-and-Masks.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks/04.00-Introduction-To-Matplotlib.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks/Untitled.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks/figures/05.01-clustering-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks/figures/05.03-learning-curve.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks/figures/05.05-gaussian-NB.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks/figures/05.12-covariance-type.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks_v1/02.03-Computation-on-arrays-ufuncs.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks_v1/02.05-Computation-on-arrays-broadcasting.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks_v1/02.06-Boolean-Arrays-and-Masks.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks_v1/03.02-Data-Indexing-and-Selection.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks_v1/03.03-Operations-in-Pandas.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks_v1/03.04-Missing-Values.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks_v1/03.07-Merge-and-Join.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks_v1/03.13-Further-Resources.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks_v1/04.05-Histograms-and-Binnings.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks_v1/04.06-Customizing-Legends.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks_v1/05.05-Naive-Bayes.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks_v1/05.07-Support-Vector-Machines.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks_v1/05.09-Principal-Component-Analysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks_v1/Untitled.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks_v1/data/president_heights.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks_v1/figures/05.01-clustering-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks_v1/figures/05.03-learning-curve.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks_v1/figures/05.05-gaussian-NB.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/notebooks_v1/figures/05.11-expectation-maximization.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/tools/add_navigation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/website/theme/templates/article.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDataScienceHandbook-master/website/theme/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aistudio/01 - definicao_vetor.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aistudio/Método de Eliminação de Gauss.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculo/taxa_variacao_curva_qq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diversos/diabetes.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diversos/matriz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentos/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentos/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estrutura_nova/Classificação/ISLP_website.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estrutura_nova/Classificação/Regressão Linear/Linear Regression using Least Squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estrutura_nova/Classificação/Regressão Logística/01_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gemini_aprendizado/01 - aprendizado supervisionado/01 - classificacao/01 - RegressaoLogisticaV02.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gemini_aprendizado/01 - aprendizado supervisionado/01 - classificacao/classificacao_todas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gemini_aprendizado/api_com_link_v3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/.devcontainer/devcontainer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/.github/workflows/generator-generic-ossf-slsa3-publish.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/1-Introduction/1-intro-to-ML/images/ai-ml-ds.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/1-Introduction/1-intro-to-ML/translations/README.zh-tw.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/1-Introduction/1-intro-to-ML/translations/assignment.ja.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/1-Introduction/2-history-of-ML/images/eliza.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/1-Introduction/2-history-of-ML/images/shakey.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/1-Introduction/2-history-of-ML/translations/README.id.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/1-Introduction/2-history-of-ML/translations/README.zh-tw.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/1-Introduction/3-fairness/translations/README.ja.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/1-Introduction/3-fairness/translations/README.zh-tw.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/1-Introduction/3-fairness/translations/assignment.es.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/1-Introduction/4-techniques-of-ML/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/1-Introduction/4-techniques-of-ML/translations/README.id.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/2-Regression/1-Tools/translations/README.pt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/2-Regression/2-Data/images/data-visualization.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/2-Regression/2-Data/images/dplyr_wrangling.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/2-Regression/2-Data/images/scatterplot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/2-Regression/3-Linear/images/linear-results.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/2-Regression/3-Linear/translations/README.es.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/2-Regression/3-Linear/translations/README.it.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/2-Regression/4-Logistic/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/2-Regression/4-Logistic/images/ROC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/2-Regression/4-Logistic/images/logistic-linear.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/2-Regression/4-Logistic/images/sigmoid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/2-Regression/4-Logistic/solution/R/lesson_4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/2-Regression/4-Logistic/translations/README.ja.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/2-Regression/4-Logistic/translations/README.pt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/2-Regression/translations/README.zh-tw.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/3-Web-App/1-Web-App/images/lobe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/3-Web-App/1-Web-App/translations/README.pt-br.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/3-Web-App/1-Web-App/translations/assignment.ja.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/3-Web-App/1-Web-App/translations/assignment.pt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/3-Web-App/translations/README.pt-br.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/4-Classification/1-Introduction/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/4-Classification/1-Introduction/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/4-Classification/2-Classifiers-1/translations/README.es.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/4-Classification/2-Classifiers-1/translations/README.it.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/4-Classification/2-Classifiers-1/translations/README.ko.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/4-Classification/2-Classifiers-1/translations/README.zh-cn.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/4-Classification/2-Classifiers-1/translations/assignment.zh-cn.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/4-Classification/3-Classifiers-2/translations/assignment.zh-cn.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/4-Classification/4-Applied/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/4-Classification/4-Applied/translations/README.es.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/4-Classification/4-Applied/translations/README.ko.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/4-Classification/data/cuisines.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/5-Clustering/1-Visualize/images/all-genres.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/5-Clustering/1-Visualize/translations/assignment.zh-cn.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/5-Clustering/2-K-Means/images/problems.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/5-Clustering/2-K-Means/solution/R/lesson_15.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/5-Clustering/translations/README.hi.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/5-Clustering/translations/README.it.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/5-Clustering/translations/README.ko.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/6-NLP/1-Introduction-to-NLP/translations/README.ko.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/6-NLP/1-Introduction-to-NLP/translations/README.zh-cn.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/6-NLP/2-Tasks/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/6-NLP/3-Translation-Sentiment/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/6-NLP/3-Translation-Sentiment/translations/README.ko.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/6-NLP/4-Hotel-Reviews-1/solution/notebook.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/6-NLP/5-Hotel-Reviews-2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/6-NLP/5-Hotel-Reviews-2/solution/2-notebook.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/6-NLP/5-Hotel-Reviews-2/translations/assignment.es.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/6-NLP/images/p&amp;p.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/6-NLP/translations/README.ru.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/7-TimeSeries/1-Introduction/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/7-TimeSeries/1-Introduction/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/7-TimeSeries/1-Introduction/solution/R/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/7-TimeSeries/1-Introduction/solution/common/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/7-TimeSeries/1-Introduction/translations/assignment.es.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/7-TimeSeries/2-ARIMA/images/mape.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/7-TimeSeries/2-ARIMA/solution/data/energy.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/7-TimeSeries/2-ARIMA/working/common/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/7-TimeSeries/2-ARIMA/working/notebook.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/8-Reinforcement/1-QLearning/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/8-Reinforcement/1-QLearning/images/apple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/8-Reinforcement/1-QLearning/images/environment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/8-Reinforcement/1-QLearning/images/learned.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/8-Reinforcement/1-QLearning/images/wolf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/8-Reinforcement/1-QLearning/solution/R/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/8-Reinforcement/2-Gym/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/9-Real-World/2-Debugging-ML-Models/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/9-Real-World/2-Debugging-ML-Models/images/ea-heatmap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/9-Real-World/translations/README.es.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/9-Real-World/translations/README.fr.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/9-Real-World/translations/README.hi.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/9-Real-World/translations/README.it.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/quiz-app/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/quiz-app/src/assets/translations/ptbr.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/9-features-influence.3ead3d3f68a84029f1e40d3eba82107445d3d3b6975d4682b23d8acc905da6d0.ms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ROC.167a70519c5bf8983f04e959942bb550de0fa37c220ff12c0f272d1af16e764a.zh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ROC_2.777f20cdfc4988ca683ade6850ac832cb70c96c12f1b910d294f270ef36e1a1c.ja.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ROC_2.777f20cdfc4988ca683ade6850ac832cb70c96c12f1b910d294f270ef36e1a1c.ko.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ROC_2.777f20cdfc4988ca683ade6850ac832cb70c96c12f1b910d294f270ef36e1a1c.ta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/accessibility.c1be5ce816eaea652fe1879bbaf74d97ef15d895ee852a7b0e3542a77b735137.fr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/accessibility.c1be5ce816eaea652fe1879bbaf74d97ef15d895ee852a7b0e3542a77b735137.mo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/accountability.41d8c0f4b85b6231301d97f17a450a805b7a07aaeb56b34015d71c757cad142e.de.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/accountability.41d8c0f4b85b6231301d97f17a450a805b7a07aaeb56b34015d71c757cad142e.ms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/accuracy.2c47fe1bf15f44b3656651c84d5e2ba9b37cd929cd2aa8ab6cc3073f50570f4e.de.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/accuracy.2c47fe1bf15f44b3656651c84d5e2ba9b37cd929cd2aa8ab6cc3073f50570f4e.es.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/all-genres.1d56ef06cefbfcd61183023834ed3cb891a5ee638a3ba5c924b3151bf80208d7.pt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/apple.c81c8d5965e5e5daab4a5f6d6aa08162915f2118ce0e46f2867f1a46335e874c.pt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/apple.c81c8d5965e5e5daab4a5f6d6aa08162915f2118ce0e46f2867f1a46335e874c.sw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/bellman-equation.7c0c4c722e5a6b7c208071a0bae51664965050848e4f8a84bb377cd18bdd838b.ka.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/bellman-equation.7c0c4c722e5a6b7c208071a0bae51664965050848e4f8a84bb377cd18bdd838b.ru.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/binary-multiclass.b56d0c86c81105a697dddd82242c1d11e4d78b7afefea07a44627a0f1111c1a9.hi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/binary-multiclass.b56d0c86c81105a697dddd82242c1d11e4d78b7afefea07a44627a0f1111c1a9.pt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/binary-multiclass.b56d0c86c81105a697dddd82242c1d11e4d78b7afefea07a44627a0f1111c1a9.sw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/calculation.a209813050a1ddb141cdc4bc56f3af31e67157ed499e16a2ecf9837542704c94.pt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/centroid.097fde836cf6c9187d0b2033e9f94441829f9d86f4f0b1604dd4b3d1931aee34.ja.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/centroid.097fde836cf6c9187d0b2033e9f94441829f9d86f4f0b1604dd4b3d1931aee34.ko.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/centroid.097fde836cf6c9187d0b2033e9f94441829f9d86f4f0b1604dd4b3d1931aee34.mo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/centroid.097fde836cf6c9187d0b2033e9f94441829f9d86f4f0b1604dd4b3d1931aee34.ta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ceos.3de5d092ce8d2753d22b48605c1d936a1477081c0646c006a07e9c80a2249fe4.zh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ceos.7a9a67871424a6c07986e7c22ddae062ac660c469f6a54435196e0ae73a1c4da.zh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/cf-what-if-features.5a92a6924da3e9b58b654c974d7560bfbfc067c123b73e98ab4935448b3f70d5.hi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/cf-what-if-features.5a92a6924da3e9b58b654c974d7560bfbfc067c123b73e98ab4935448b3f70d5.pt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/cf-what-if-features.5a92a6924da3e9b58b654c974d7560bfbfc067c123b73e98ab4935448b3f70d5.sw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/cheatsheet.07a475ea444d22234cb8907a3826df5bdd1953efec94bd18e4496f36ff60624a.hi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/cheatsheet.07a475ea444d22234cb8907a3826df5bdd1953efec94bd18e4496f36ff60624a.ka.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/cheatsheet.07a475ea444d22234cb8907a3826df5bdd1953efec94bd18e4496f36ff60624a.ru.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/chess.e704a268781bdad85d1876b6c2295742fa0d856e7dcf3659147052df9d3db205.pt.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/chess.e704a268781bdad85d1876b6c2295742fa0d856e7dcf3659147052df9d3db205.sw.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/chinese.e62cafa5309f111afd1b54490336daf4e927ce32bed837069a0b7ce481dfae8d.hi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/chinese.e62cafa5309f111afd1b54490336daf4e927ce32bed837069a0b7ce481dfae8d.ru.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/clusters.b635354640d8e4fd4a49ef545495518e7be76172c97c13bd748f5b79f171f69a.de.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/clusters.b635354640d8e4fd4a49ef545495518e7be76172c97c13bd748f5b79f171f69a.it.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/comparison.edfab56193a85e7fdecbeaa1b1f8c99e94adbf7178bed0de902090cf93d6734f.hi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/comparison.edfab56193a85e7fdecbeaa1b1f8c99e94adbf7178bed0de902090cf93d6734f.pt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/comparison.edfab56193a85e7fdecbeaa1b1f8c99e94adbf7178bed0de902090cf93d6734f.sw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/confusion-matrix.3cc5496a1a37c3e4311e74790f15a1426e03e27af7e611aaabda56bc0a802aaf.it.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/correlation.a9356bb798f5eea51f47185968e1ebac5c078c92fce9931e28ccf0d7fab71c2b.de.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/correlation.a9356bb798f5eea51f47185968e1ebac5c078c92fce9931e28ccf0d7fab71c2b.es.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/counterfactuals-examples.b38a50a504ee0a9fc6087aba050a212a5f838adc5b0d76c5c656f8b1ccaab822.zh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/currency.e7429812bfc8c6087b2d4c410faaa4aaa11b2fcaabf6f09549b8249c9fbdb641.hi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/currency.e7429812bfc8c6087b2d4c410faaa4aaa11b2fcaabf6f09549b8249c9fbdb641.pt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/currency.e7429812bfc8c6087b2d4c410faaa4aaa11b2fcaabf6f09549b8249c9fbdb641.sw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/data-visualization.54e56dded7c1a804d00d027543f2881cb32da73aeadda2d4a4f10f3497526114.it.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/data-visualization.54e56dded7c1a804d00d027543f2881cb32da73aeadda2d4a4f10f3497526114.ta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/dataanalysis-cover.8d6d0683a70a5c1e274e5a94b27a71137e3d0a3b707761d7170eb340dd07f11d.ka.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/dataanalysis-cover.8d6d0683a70a5c1e274e5a94b27a71137e3d0a3b707761d7170eb340dd07f11d.ru.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/datapoints.aaf6815cd5d873541b61b73b9a6ee6a53914b5d62ed2cbbedaa2e1d9a414c5c1.fr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/datapoints.aaf6815cd5d873541b61b73b9a6ee6a53914b5d62ed2cbbedaa2e1d9a414c5c1.ja.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/datapoints.aaf6815cd5d873541b61b73b9a6ee6a53914b5d62ed2cbbedaa2e1d9a414c5c1.ko.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/datapoints.aaf6815cd5d873541b61b73b9a6ee6a53914b5d62ed2cbbedaa2e1d9a414c5c1.ta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/distribution.9be11df42356ca958dc8e06e87865e09d77cab78f94fe4fea8a1e6796c64dc4b.zh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/dplyr_filter.b480b264b03439ff7051232a8de1df9a8fd4df723db316feb4f9f5e990db4318.fr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/dplyr_filter.b480b264b03439ff7051232a8de1df9a8fd4df723db316feb4f9f5e990db4318.it.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/dplyr_filter.b480b264b03439ff7051232a8de1df9a8fd4df723db316feb4f9f5e990db4318.ja.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/dplyr_filter.b480b264b03439ff7051232a8de1df9a8fd4df723db316feb4f9f5e990db4318.ko.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/dplyr_filter.b480b264b03439ff7051232a8de1df9a8fd4df723db316feb4f9f5e990db4318.mo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/dplyr_filter.b480b264b03439ff7051232a8de1df9a8fd4df723db316feb4f9f5e990db4318.ta.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/dplyr_filter.b480b264b03439ff7051232a8de1df9a8fd4df723db316feb4f9f5e990db4318.tr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/dplyr_wrangling.f5f99c64fd4580f1377fee3ea428b6f8fd073845ec0f8409d483cfe148f0984e.mo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/dplyr_wrangling.f5f99c64fd4580f1377fee3ea428b6f8fd073845ec0f8409d483cfe148f0984e.ta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/dplyr_wrangling.f5f99c64fd4580f1377fee3ea428b6f8fd073845ec0f8409d483cfe148f0984e.tr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ea-error-cohort.6886209ea5d438c4daa8bfbf5ce3a7042586364dd3eccda4a4e3d05623ac702a.it.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ea-error-cohort.6886209ea5d438c4daa8bfbf5ce3a7042586364dd3eccda4a4e3d05623ac702a.mo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ea-error-distribution.117452e1177c1dd84fab2369967a68bcde787c76c6ea7fdb92fcf15d1fce8206.zh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ea-heatmap.8d27185e28cee3830c85e1b2e9df9d2d5e5c8c940f41678efdb68753f2f7e56c.de.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ea-heatmap.8d27185e28cee3830c85e1b2e9df9d2d5e5c8c940f41678efdb68753f2f7e56c.ms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/elbow.72676169eed744ff03677e71334a16c6b8f751e9e716e3d7f40dd7cdef674cca.pt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/elbow.72676169eed744ff03677e71334a16c6b8f751e9e716e3d7f40dd7cdef674cca.sw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/electric-grid.0c21d5214db09ffae93c06a87ca2abbb9ba7475ef815129c5b423d7f9a7cf136.fr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/embedding.2cf8953c4b3101d188c2f61a5de5b6f53caaa5ad4ed99236d42bc3b6bd6a1fe2.ms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/energy-plot.5fdac3f397a910bc6070602e9e45bea8860d4c239354813fa8fc3c9d556f5bad.es.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/energy-plot.5fdac3f397a910bc6070602e9e45bea8860d4c239354813fa8fc3c9d556f5bad.ms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/env_init.04e8f26d2d60089e128f21d22e5fef57d580e559f0d5937b06c689e5e7cdd438.hi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/environment.40ba3cb66256c93fa7e92f6f7214e1d1f588aafa97d266c11d108c5c5d101b6c.de.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/environment.40ba3cb66256c93fa7e92f6f7214e1d1f588aafa97d266c11d108c5c5d101b6c.ms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/escape.18862db9930337e3fce23a9b6a76a06445f229dadea2268e12a6f0a1fde12115.de.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/escape.18862db9930337e3fce23a9b6a76a06445f229dadea2268e12a6f0a1fde12115.es.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/facetgrid.9b2e65ce707eba1f983b7cdfed5d952e60f385947afa3011df6e3cc7d200eb5b.de.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/facetgrid.9b2e65ce707eba1f983b7cdfed5d952e60f385947afa3011df6e3cc7d200eb5b.es.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/fairness.25d7c8ce9817272d25dd0e2b42a6addf7d3b8241cb6c3088fa9fc3eb7227781d.zh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/fairness.b9f9893a4e3dc28bec350a714555c3be39040c3fe7e0aa4da10bb8e3c54a1cc9.it.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/fairness.b9f9893a4e3dc28bec350a714555c3be39040c3fe7e0aa4da10bb8e3c54a1cc9.ja.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/fairness.b9f9893a4e3dc28bec350a714555c3be39040c3fe7e0aa4da10bb8e3c54a1cc9.ko.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/fairness.b9f9893a4e3dc28bec350a714555c3be39040c3fe7e0aa4da10bb8e3c54a1cc9.ta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/favicon.37b561214b36d454f9fd1f725d77f310fe256eb88f2a0ae08b9cb18aeb30650c.fr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/favicon.37b561214b36d454f9fd1f725d77f310fe256eb88f2a0ae08b9cb18aeb30650c.ja.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/favicon.37b561214b36d454f9fd1f725d77f310fe256eb88f2a0ae08b9cb18aeb30650c.mo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/flat-nonflat.d1c8c6e2a96110c1d57fa0b72913f6aab3c245478524d25baf7f4a18efcde224.fr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/flat-nonflat.d1c8c6e2a96110c1d57fa0b72913f6aab3c245478524d25baf7f4a18efcde224.ja.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/flat-nonflat.d1c8c6e2a96110c1d57fa0b72913f6aab3c245478524d25baf7f4a18efcde224.ko.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/flat-nonflat.d1c8c6e2a96110c1d57fa0b72913f6aab3c245478524d25baf7f4a18efcde224.zh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/full-data-predict.4f0fed16a131c8f3bcc57a3060039dc7f2f714a05b07b68c513e0fe7fb3d8964.fr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/full-data.a82ec9957e580e976f651a4fc38f280b9229c6efdbe3cfe7c60abaa9486d2cbe.hi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/full-data.a82ec9957e580e976f651a4fc38f280b9229c6efdbe3cfe7c60abaa9486d2cbe.pt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/full-data.a82ec9957e580e976f651a4fc38f280b9229c6efdbe3cfe7c60abaa9486d2cbe.sw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/gender-bias-translate-en-tr.bfd87c45da23c08526ec072e397d571d96b6051c8b538600b1ada80289d6ac58.it.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/gender-bias-translate-en-tr.bfd87c45da23c08526ec072e397d571d96b6051c8b538600b1ada80289d6ac58.ko.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/gender-bias-translate-en-tr.bfd87c45da23c08526ec072e397d571d96b6051c8b538600b1ada80289d6ac58.mo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/gender-bias-translate-en-tr.bfd87c45da23c08526ec072e397d571d96b6051c8b538600b1ada80289d6ac58.ta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/gender-bias-translate-en-tr.bfd87c45da23c08526ec072e397d571d96b6051c8b538600b1ada80289d6ac58.tr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/gender-bias-translate-en-tr.f185fd8822c2d4372912f2b690f6aaddd306ffbb49d795ad8d12a4bf141e7af0.hi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/gender-bias-translate-en-tr.f185fd8822c2d4372912f2b690f6aaddd306ffbb49d795ad8d12a4bf141e7af0.pt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/gender-bias-translate-en-tr.f185fd8822c2d4372912f2b690f6aaddd306ffbb49d795ad8d12a4bf141e7af0.sw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/gender-bias-translate-tr-en.4eee7e3cecb8c70e13a8abbc379209bc8032714169e585bdeac75af09b1752aa.fr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/gender-bias-translate-tr-en.4eee7e3cecb8c70e13a8abbc379209bc8032714169e585bdeac75af09b1752aa.zh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/globe.59f26379ceb40428672b4d9a568044618a2bf6292ecd53a5c481b90e3fa805eb.pt.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/grid.464370ad00f3696ce81c7488a963158b69d3b1cfd3f020c58a28360e5cf4239c.ms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/heatmap.39952045da50b4eb206764735021552f31cff773a79997ece7481fe614897a25.ja.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/heatmap.39952045da50b4eb206764735021552f31cff773a79997ece7481fe614897a25.ko.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/hierarchical.bf59403aa43c8c47493bfdf1cc25230f26e45f4e38a3d62e8769cd324129ac15.fr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/hierarchical.bf59403aa43c8c47493bfdf1cc25230f26e45f4e38a3d62e8769cd324129ac15.ja.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/hierarchical.bf59403aa43c8c47493bfdf1cc25230f26e45f4e38a3d62e8769cd324129ac15.mo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/human.e3840390a2ab76901f465c17f568637801ab0df39d7c3fdcb6a112b0c74c6288.zh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/hype.07183d711a17aafe70915909a0e45aa286ede136ee9424d418026ab00fec344c.fr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/hype.07183d711a17aafe70915909a0e45aa286ede136ee9424d418026ab00fec344c.ja.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/hype.07183d711a17aafe70915909a0e45aa286ede136ee9424d418026ab00fec344c.ta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/hype.07183d711a17aafe70915909a0e45aa286ede136ee9424d418026ab00fec344c.tr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/indian.2c4292002af1a1f97a4a24fec6b1459ee8ff616c3822ae56bb62b9903e192af6.hi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/indian.2c4292002af1a1f97a4a24fec6b1459ee8ff616c3822ae56bb62b9903e192af6.ka.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/individual-causal-what-if.00e7b86b52a083cea6344c73c76463e9d41e0fe44fecd6f48671cb2a2d280d81.fr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/individual-causal-what-if.00e7b86b52a083cea6344c73c76463e9d41e0fe44fecd6f48671cb2a2d280d81.it.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/individual-causal-what-if.00e7b86b52a083cea6344c73c76463e9d41e0fe44fecd6f48671cb2a2d280d81.mo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/individual-causal-what-if.00e7b86b52a083cea6344c73c76463e9d41e0fe44fecd6f48671cb2a2d280d81.tr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/jack-o-lanterns.181c661a9212457d7756f37219f660f1358af27554d856e5a991f16b4e15337c.it.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/janitor.e4a77dd3d3e6a32e25327090b8a9c00dc7cf459c44fa9f184c5ecb0d48ce3794.es.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/japanese.30260486f2a05c463c8faa62ebe7b38f0961ed293bd9a6db8eef5d3f0cf17155.ja.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/japanese.30260486f2a05c463c8faa62ebe7b38f0961ed293bd9a6db8eef5d3f0cf17155.ko.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/japanese.30260486f2a05c463c8faa62ebe7b38f0961ed293bd9a6db8eef5d3f0cf17155.tr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/july-2014.9e1f7c318ec6d5b30b0d7e1e20be3643501f64a53f3d426d7c7d7b62addb335e.it.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/july-2014.9e1f7c318ec6d5b30b0d7e1e20be3643501f64a53f3d426d7c7d7b62addb335e.ko.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/july-2014.9e1f7c318ec6d5b30b0d7e1e20be3643501f64a53f3d426d7c7d7b62addb335e.mo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/july-2014.9e1f7c318ec6d5b30b0d7e1e20be3643501f64a53f3d426d7c7d7b62addb335e.ta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/july-2014.9e1f7c318ec6d5b30b0d7e1e20be3643501f64a53f3d426d7c7d7b62addb335e.tr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/korean.4a4f0274f3d9805a65e61f05597eeaad8620b03be23a2c0a705c023f65fad2c0.hi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/korean.4a4f0274f3d9805a65e61f05597eeaad8620b03be23a2c0a705c023f65fad2c0.pt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/korean.4a4f0274f3d9805a65e61f05597eeaad8620b03be23a2c0a705c023f65fad2c0.sw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/learned.ed28bcd8484b5287a31925c96c43b43e2c2bb876b8ca41a0e1e754f77bb3db20.hi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/learned.ed28bcd8484b5287a31925c96c43b43e2c2bb876b8ca41a0e1e754f77bb3db20.pt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/learned.ed28bcd8484b5287a31925c96c43b43e2c2bb876b8ca41a0e1e754f77bb3db20.sw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/linear.a1b0760a56132551947c85988ff1753b2bccea6c29097394744d3f8a986ac3bf.ms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/lobe.2fa0806408ef9923ad81b63f5094b5d832a2e52227c4f0abb9fef6e1132fde15.es.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/lobe.2fa0806408ef9923ad81b63f5094b5d832a2e52227c4f0abb9fef6e1132fde15.ms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/logistic.b0cba6b7db4d57899f5a6ae74876bd34a0bd5dc492458b80b3293e948fa46a2d.ms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/lpathlen.94f211521ed609400dc64c3d8423b9effc5406f33d2648d0002c14c04ba820c1.hi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/lpathlen.94f211521ed609400dc64c3d8423b9effc5406f33d2648d0002c14c04ba820c1.ka.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/lpathlen.94f211521ed609400dc64c3d8423b9effc5406f33d2648d0002c14c04ba820c1.sw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/lpathlen1.0534784add58d4ebf25c21d4a1da9bceab4f96743a35817f1b49ab963c64c572.hi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/lpathlen1.0534784add58d4ebf25c21d4a1da9bceab4f96743a35817f1b49ab963c64c572.ru.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/map.e963a6a51349425ab107b38f6c7307eb4c0d0c7ccdd2e81a5e1919292bab9ac7.zh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/mape.fd87bbaf4d346846df6af88b26bf6f0926bf9a5027816d5e23e1200866e3e8a4.ka.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ml-fairness.ef296ebec6afc98a44566d7b6c1ed18dc2bf1115c13ec679bb626028e852fa1d.hi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ml-fairness.ef296ebec6afc98a44566d7b6c1ed18dc2bf1115c13ec679bb626028e852fa1d.ka.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ml-for-beginners-video-banner.279f2a268d2130758668f4044f8c252d42f7c0a141c2cb56294c1ccc157cdd1c.de.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ml-for-beginners-video-banner.279f2a268d2130758668f4044f8c252d42f7c0a141c2cb56294c1ccc157cdd1c.es.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ml-for-beginners-video-banner.279f2a268d2130758668f4044f8c252d42f7c0a141c2cb56294c1ccc157cdd1c.ms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ml-for-beginners.7b65fdd1f4f4159800d88d4e11fac859dd5eb2dc500be72f788085b38ab1bccb.zh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ml-history.a1bdfd4ce1f464d9a0502f38d355ffda384c95cd5278297a46c9a391b5053bc4.de.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ml-history.a1bdfd4ce1f464d9a0502f38d355ffda384c95cd5278297a46c9a391b5053bc4.it.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ml-realworld.26ee2746716155771f8076598b6145e6533fe4a9e2e465ea745f46648cbf1b84.hi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ml-realworld.26ee2746716155771f8076598b6145e6533fe4a9e2e465ea745f46648cbf1b84.ka.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ml-realworld.26ee2746716155771f8076598b6145e6533fe4a9e2e465ea745f46648cbf1b84.ru.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ml-reinforcement.94024374d63348dbb3571c343ca7ddabef72adac0b8086d47164b769ba3a8a1d.zh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ml-timeseries.fb98d25f1013fc0c59090030080b5d1911ff336427bec31dbaf1ad08193812e9.ja.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ml-timeseries.fb98d25f1013fc0c59090030080b5d1911ff336427bec31dbaf1ad08193812e9.ko.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ml-timeseries.fb98d25f1013fc0c59090030080b5d1911ff336427bec31dbaf1ad08193812e9.mo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ml-timeseries.fb98d25f1013fc0c59090030080b5d1911ff336427bec31dbaf1ad08193812e9.ta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/ml-timeseries.fb98d25f1013fc0c59090030080b5d1911ff336427bec31dbaf1ad08193812e9.tr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/model-overview-dataset-cohorts.dfa463fb527a35a0afc01b7b012fc87bf2cad756763f3652bbd810cac5d6cf33.hi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/model-overview-dataset-cohorts.dfa463fb527a35a0afc01b7b012fc87bf2cad756763f3652bbd810cac5d6cf33.ka.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/model-overview-dataset-cohorts.dfa463fb527a35a0afc01b7b012fc87bf2cad756763f3652bbd810cac5d6cf33.ru.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/model-overview-feature-cohorts.c5104d575ffd0c80b7ad8ede7703fab6166bfc6f9125dd395dcc4ace2f522f70.zh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/monnaie.606c5fa8369d5c3b3031ef0713e2069485c87985dd475cd9056bdf4c76c1f4b8.ka.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/monnaie.606c5fa8369d5c3b3031ef0713e2069485c87985dd475cd9056bdf4c76c1f4b8.ru.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/multinomial-ordinal.944fe02295fd6cdffa68facf540d0534c6f428a5d906edc40507cda4356950ee.hi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/multinomial-ordinal.944fe02295fd6cdffa68facf540d0534c6f428a5d906edc40507cda4356950ee.pt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/multinomial-ordinal.944fe02295fd6cdffa68facf540d0534c6f428a5d906edc40507cda4356950ee.sw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/multinomial-vs-ordinal.36701b4850e37d86c9dd49f7bef93a2f94dbdb8fe03443eb68f0542f97f28f29.es.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/multinomial-vs-ordinal.36701b4850e37d86c9dd49f7bef93a2f94dbdb8fe03443eb68f0542f97f28f29.ms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/notebook.4a3ee31f396b88325607afda33cadcc6368de98040ff33942424260aa84d75f2.hi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/notebook.4a3ee31f396b88325607afda33cadcc6368de98040ff33942424260aa84d75f2.ka.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/notebook.4a3ee31f396b88325607afda33cadcc6368de98040ff33942424260aa84d75f2.ru.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/original.b2b15efe0ce92b8745918f071dceec2231661bf49c8db6918e3ff4b3b0b183c2.it.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/original.b2b15efe0ce92b8745918f071dceec2231661bf49c8db6918e3ff4b3b0b183c2.ja.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/original.b2b15efe0ce92b8745918f071dceec2231661bf49c8db6918e3ff4b3b0b183c2.ko.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/original.b2b15efe0ce92b8745918f071dceec2231661bf49c8db6918e3ff4b3b0b183c2.ta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/overfitting.1c132d92bfd93cb63240baf63ebdf82c30e30a0a44e1ad49861b82ff600c2b5c.fr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/overfitting.1c132d92bfd93cb63240baf63ebdf82c30e30a0a44e1ad49861b82ff600c2b5c.ja.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/overfitting.1c132d92bfd93cb63240baf63ebdf82c30e30a0a44e1ad49861b82ff600c2b5c.ko.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/overfitting.1c132d92bfd93cb63240baf63ebdf82c30e30a0a44e1ad49861b82ff600c2b5c.mo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/overfitting.1c132d92bfd93cb63240baf63ebdf82c30e30a0a44e1ad49861b82ff600c2b5c.tr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/p&amp;p.279f1c49ecd889419e4ce6206525e9aa30d32a976955cd24daa636c361c6391f.zh.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/parse.d0c5bbe1106eae8fe7d60a183cd1736c8b6cec907f38000366535f84f3036101.zh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/parsnip.cd2ce92622976502a80714e69ce67e3f2da3274a9ef5ac484c1308c5f3cb0f4a.it.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/pie-pumpkins-scatter.d14f9804a53f927e7fe39aa072486f4ed1bdd7f31c8bb08f476855f4b02350c3.ja.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/pie-pumpkins-scatter.d14f9804a53f927e7fe39aa072486f4ed1bdd7f31c8bb08f476855f4b02350c3.ko.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/pie-pumpkins-scatter.d14f9804a53f927e7fe39aa072486f4ed1bdd7f31c8bb08f476855f4b02350c3.mo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/pie-pumpkins-scatter.d14f9804a53f927e7fe39aa072486f4ed1bdd7f31c8bb08f476855f4b02350c3.ta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/pie-pumpkins-scatter.d14f9804a53f927e7fe39aa072486f4ed1bdd7f31c8bb08f476855f4b02350c3.tr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/pinch.1b035ec9ba7e0d408313b551b60c721c9c290b2dd2094115bc87e6ddacd114c9.de.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/pinch.1b035ec9ba7e0d408313b551b60c721c9c290b2dd2094115bc87e6ddacd114c9.es.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/poly-results.ee587348f0f1f60bd16c471321b0b2f2457d0eaa99d99ec0ced4affc900fa96c.de.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/poly-results.ee587348f0f1f60bd16c471321b0b2f2457d0eaa99d99ec0ced4affc900fa96c.es.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/poly-results.ee587348f0f1f60bd16c471321b0b2f2457d0eaa99d99ec0ced4affc900fa96c.ms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/polynomial.8fce4663e7283dfb9864eef62255b57cc2799e187c6d0a6dbfcf29fec6e52faa.zh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/popular.9c48d84b3386705f98bf44e26e9655bee9eb7c849d73be65195e37895bfedb5d.fr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/popular.9c48d84b3386705f98bf44e26e9655bee9eb7c849d73be65195e37895bfedb5d.mo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/popular.9c48d84b3386705f98bf44e26e9655bee9eb7c849d73be65195e37895bfedb5d.tr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/price-by-variety.744a2f9925d9bcb43a9a8c69469ce2520c9524fabfa270b1b2422cc2450d6d11.de.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/price-by-variety.744a2f9925d9bcb43a9a8c69469ce2520c9524fabfa270b1b2422cc2450d6d11.it.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/problems.f7fb539ccd80608e1f35c319cf5e3ad1809faa3c08537aead8018c6b5ba2e33a.pt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/problems.f7fb539ccd80608e1f35c319cf5e3ad1809faa3c08537aead8018c6b5ba2e33a.sw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/pumpkin-classifier.562771f104ad5436b87d1c67bca02a42a17841133556559325c0a0e348e5b774.hi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/pumpkin-classifier.562771f104ad5436b87d1c67bca02a42a17841133556559325c0a0e348e5b774.ka.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/pumpkin-classifier.562771f104ad5436b87d1c67bca02a42a17841133556559325c0a0e348e5b774.sw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/pumpkins_catplot_1.c55c409b71fea2ecc01921e64b91970542101f90bcccfa4aa3a205db8936f48b.zh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/pumpkins_catplot_2.87a354447880b3889278155957f8f60dd63db4598de5a6d0fda91c334d31f9f1.ka.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/pumpkins_catplot_2.87a354447880b3889278155957f8f60dd63db4598de5a6d0fda91c334d31f9f1.ru.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/r_learners_sm.cd14eb3581a9f28d32086cc042ee8c46f621a5b4e0d59c75f7c642d891327043.hi.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/r_learners_sm.cd14eb3581a9f28d32086cc042ee8c46f621a5b4e0d59c75f7c642d891327043.ka.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/r_learners_sm.cd14eb3581a9f28d32086cc042ee8c46f621a5b4e0d59c75f7c642d891327043.ko.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/r_learners_sm.e25fa9c205b3a3f98d66476321637b48f61d9c23526309ce82d0a43e88b90f66.de.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/r_learners_sm.e25fa9c205b3a3f98d66476321637b48f61d9c23526309ce82d0a43e88b90f66.ms.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/r_learners_sm.f9199f76f1e2e49304b19155ebcfb8bad375aface4625be7e95404486a48d332.es.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/recipes.9ad10d8a4056bf89413fc33644924e0bd29d7c12fb2154e03a1ca3d2d6ea9323.hi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/recipes.9ad10d8a4056bf89413fc33644924e0bd29d7c12fb2154e03a1ca3d2d6ea9323.pt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/recipes.9ad10d8a4056bf89413fc33644924e0bd29d7c12fb2154e03a1ca3d2d6ea9323.sw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/scaled.91897dfbaa26ca4a5f45c99aaabe79b1f1bcd1237f8124c20c0510df482e9f49.de.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/scaled.91897dfbaa26ca4a5f45c99aaabe79b1f1bcd1237f8124c20c0510df482e9f49.es.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/scaled.91897dfbaa26ca4a5f45c99aaabe79b1f1bcd1237f8124c20c0510df482e9f49.ms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/scatter-dayofyear-color.65790faefbb9d54fb8f6223c566c445b9fac58a1c15f41f8641c3842af9d548b.hi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/scatter-dayofyear-color.65790faefbb9d54fb8f6223c566c445b9fac58a1c15f41f8641c3842af9d548b.pt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/scatter-dayofyear-color.65790faefbb9d54fb8f6223c566c445b9fac58a1c15f41f8641c3842af9d548b.sw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/scatter-dayofyear.bc171c189c9fd553fe93030180b9c00ed123148a577640e4d7481c4c01811972.de.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/scatter-dayofyear.bc171c189c9fd553fe93030180b9c00ed123148a577640e4d7481c4c01811972.es.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/scatterplot.ad8b356bcbb33be68d54050e09b9b7bfc03e94fde7371f2609ae43f4c563b2d7.fr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/scatterplot.ad8b356bcbb33be68d54050e09b9b7bfc03e94fde7371f2609ae43f4c563b2d7.ko.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/scatterplot.ad8b356bcbb33be68d54050e09b9b7bfc03e94fde7371f2609ae43f4c563b2d7.tr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/scatterplot.b6868f44cbd2051c6680ccdbb1510697d06a3ff6cd4abda656f5009c0ed4e3fc.ka.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/scatterplot.b6868f44cbd2051c6680ccdbb1510697d06a3ff6cd4abda656f5009c0ed4e3fc.ru.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/sigmoid.8b7ba9d095c789cf72780675d0d1d44980c3736617329abfc392dfc859799704.ja.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/sigmoid.8b7ba9d095c789cf72780675d0d1d44980c3736617329abfc392dfc859799704.ko.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/sigmoid.8b7ba9d095c789cf72780675d0d1d44980c3736617329abfc392dfc859799704.ta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/sigmoid.8b7ba9d095c789cf72780675d0d1d44980c3736617329abfc392dfc859799704.tr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/solvers.5fc648618529e627dfac29b917b3ccabda4b45ee8ed41b0acb1ce1441e8d1ef1.ms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/svm.621ae7b516d678e08ed23af77ff1750b5fe392976917f0606861567b779e8862.it.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/swarm_2.efeacfca536c2b577dc7b5f8891f28926663fbf62d893ab5e1278ae734ca104e.fr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/test-data-predict.8afc47ee7e52874f514ebdda4a798647e9ecf44a97cc927c535246fcf7a28aa9.sw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/thai-food.c47a7a7f9f05c21892a1f9dc7bf30669e6d18dfda420c5c7ebb4153f6a304edd.zh.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/thai.0269dbab2e78bd38a132067759fe980008bdb80b6d778e5313448dbe12bed846.pt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/tokenization.1641a160c66cd2d93d4524e8114e93158a9ce0eba3ecf117bae318e8a6ad3487.es.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/tokenization.1641a160c66cd2d93d4524e8114e93158a9ce0eba3ecf117bae318e8a6ad3487.ms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/train-test.8928d14e5b91fc942f0ca9201b2d36c890ea7e98f7619fd94f75de3a4c2bacb9.de.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/train-test.8928d14e5b91fc942f0ca9201b2d36c890ea7e98f7619fd94f75de3a4c2bacb9.es.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/train-test.ead0cecbfc341921d4875eccf25fed5eefbb860cdbb69cabcc2276c49e4b33e5.hi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/train-test.ead0cecbfc341921d4875eccf25fed5eefbb860cdbb69cabcc2276c49e4b33e5.sw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/train_progress_raw.2adfdf2daea09c596fc786fa347a23e9aceffe1b463e2257d20a9505794823ec.pt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/train_progress_raw.2adfdf2daea09c596fc786fa347a23e9aceffe1b463e2257d20a9505794823ec.sw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/train_progress_runav.c71694a8fa9ab35935aff6f109e5ecdfdbdf1b0ae265da49479a81b5fae8f0aa.de.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/train_progress_runav.c71694a8fa9ab35935aff6f109e5ecdfdbdf1b0ae265da49479a81b5fae8f0aa.es.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/train_progress_runav.c71694a8fa9ab35935aff6f109e5ecdfdbdf1b0ae265da49479a81b5fae8f0aa.ms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/turntable.f2b86b13c53302dc106aa741de9dc96ac372864cf458dd6f879119857aab01da.ka.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/unruly_data.0eedc7ced92d2d919cf5ea197bfe0fe9a30780c4bf7cdcf14ff4e9dc5a4c7267.fr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/unruly_data.0eedc7ced92d2d919cf5ea197bfe0fe9a30780c4bf7cdcf14ff4e9dc5a4c7267.ja.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/unruly_data.0eedc7ced92d2d919cf5ea197bfe0fe9a30780c4bf7cdcf14ff4e9dc5a4c7267.ko.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/unruly_data.0eedc7ced92d2d919cf5ea197bfe0fe9a30780c4bf7cdcf14ff4e9dc5a4c7267.mo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/unruly_data.0eedc7ced92d2d919cf5ea197bfe0fe9a30780c4bf7cdcf14ff4e9dc5a4c7267.tr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/violin.ffceb68923177011dc8f1ae08f78297c69f2b868d82fa4e754cc923b185d4f7d.de.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/violin.ffceb68923177011dc8f1ae08f78297c69f2b868d82fa4e754cc923b185d4f7d.es.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/violin.ffceb68923177011dc8f1ae08f78297c69f2b868d82fa4e754cc923b185d4f7d.ms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/voronoi.1dc1613fb0439b9564615eca8df47a4bcd1ce06217e7e72325d2406ef2180795.ja.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/web-app.4c76450cabe20036f8ec6d5e05ccc0c1c064f0d8f2fe3304d3bcc0198f7dc139.fr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/web-app.4c76450cabe20036f8ec6d5e05ccc0c1c064f0d8f2fe3304d3bcc0198f7dc139.ja.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/web-app.4c76450cabe20036f8ec6d5e05ccc0c1c064f0d8f2fe3304d3bcc0198f7dc139.ko.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/web-app.4c76450cabe20036f8ec6d5e05ccc0c1c064f0d8f2fe3304d3bcc0198f7dc139.mo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/web-app.4c76450cabe20036f8ec6d5e05ccc0c1c064f0d8f2fe3304d3bcc0198f7dc139.ta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/web-app.4c76450cabe20036f8ec6d5e05ccc0c1c064f0d8f2fe3304d3bcc0198f7dc139.tr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translated_images/wolf.a56d3d4070ca0c79007b28aa2203a1801ebd496f242525381225992ece6c369d.zh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/de/2-Regression/1-Tools/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/de/2-Regression/2-Data/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/de/2-Regression/3-Linear/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/de/2-Regression/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/de/3-Web-App/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/de/4-Classification/3-Classifiers-2/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/de/6-NLP/4-Hotel-Reviews-1/solution/R/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/de/7-TimeSeries/1-Introduction/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/de/8-Reinforcement/2-Gym/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/de/TRANSLATIONS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/es/2-Regression/1-Tools/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/es/2-Regression/4-Logistic/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/es/3-Web-App/1-Web-App/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/es/4-Classification/2-Classifiers-1/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/es/4-Classification/3-Classifiers-2/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/es/4-Classification/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/es/6-NLP/4-Hotel-Reviews-1/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/es/6-NLP/4-Hotel-Reviews-1/solution/R/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/es/6-NLP/data/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/es/7-TimeSeries/1-Introduction/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/es/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/fr/1-Introduction/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/fr/2-Regression/3-Linear/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/fr/3-Web-App/1-Web-App/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/fr/4-Classification/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/fr/6-NLP/1-Introduction-to-NLP/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/fr/6-NLP/4-Hotel-Reviews-1/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/fr/6-NLP/4-Hotel-Reviews-1/solution/R/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/fr/6-NLP/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/fr/7-TimeSeries/2-ARIMA/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/fr/7-TimeSeries/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/fr/8-Reinforcement/1-QLearning/solution/R/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/fr/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/hi/1-Introduction/1-intro-to-ML/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/hi/2-Regression/3-Linear/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/hi/3-Web-App/1-Web-App/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/hi/4-Classification/2-Classifiers-1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/hi/4-Classification/3-Classifiers-2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/hi/5-Clustering/1-Visualize/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/hi/5-Clustering/2-K-Means/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/hi/6-NLP/4-Hotel-Reviews-1/solution/R/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/hi/6-NLP/data/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/hi/7-TimeSeries/1-Introduction/solution/R/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/hi/7-TimeSeries/3-SVR/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/hi/8-Reinforcement/1-QLearning/solution/R/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/hi/8-Reinforcement/2-Gym/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/it/1-Introduction/1-intro-to-ML/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/it/1-Introduction/2-history-of-ML/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/it/2-Regression/1-Tools/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/it/2-Regression/2-Data/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/it/2-Regression/4-Logistic/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/it/4-Classification/1-Introduction/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/it/4-Classification/2-Classifiers-1/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/it/4-Classification/3-Classifiers-2/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/it/4-Classification/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/it/6-NLP/3-Translation-Sentiment/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/it/6-NLP/5-Hotel-Reviews-2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/it/7-TimeSeries/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/it/8-Reinforcement/1-QLearning/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/it/SECURITY.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/it/SUPPORT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/it/quiz-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/it/sketchnotes/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ja/1-Introduction/1-intro-to-ML/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ja/2-Regression/3-Linear/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ja/2-Regression/4-Logistic/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ja/4-Classification/1-Introduction/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ja/6-NLP/1-Introduction-to-NLP/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ja/7-TimeSeries/1-Introduction/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ja/9-Real-World/1-Applications/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ja/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ja/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ko/2-Regression/1-Tools/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ko/2-Regression/3-Linear/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ko/2-Regression/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ko/4-Classification/2-Classifiers-1/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ko/4-Classification/3-Classifiers-2/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ko/4-Classification/4-Applied/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ko/8-Reinforcement/1-QLearning/solution/R/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ko/8-Reinforcement/2-Gym/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ko/9-Real-World/2-Debugging-ML-Models/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ko/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/mo/1-Introduction/3-fairness/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/mo/4-Classification/4-Applied/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/mo/6-NLP/3-Translation-Sentiment/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/mo/8-Reinforcement/2-Gym/solution/R/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/mo/9-Real-World/2-Debugging-ML-Models/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ms/1-Introduction/1-intro-to-ML/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ms/1-Introduction/4-techniques-of-ML/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ms/2-Regression/1-Tools/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ms/2-Regression/4-Logistic/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ms/4-Classification/1-Introduction/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ms/6-NLP/2-Tasks/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ms/6-NLP/4-Hotel-Reviews-1/solution/R/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ms/6-NLP/5-Hotel-Reviews-2/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ms/6-NLP/5-Hotel-Reviews-2/solution/R/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ms/7-TimeSeries/2-ARIMA/solution/R/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ms/7-TimeSeries/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ms/9-Real-World/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ms/sketchnotes/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/pt/3-Web-App/1-Web-App/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/pt/3-Web-App/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/pt/4-Classification/3-Classifiers-2/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/pt/5-Clustering/2-K-Means/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/pt/6-NLP/3-Translation-Sentiment/solution/R/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/pt/6-NLP/5-Hotel-Reviews-2/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/pt/7-TimeSeries/2-ARIMA/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/pt/8-Reinforcement/2-Gym/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/pt/9-Real-World/2-Debugging-ML-Models/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/pt/docs/_sidebar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ru/1-Introduction/1-intro-to-ML/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ru/1-Introduction/3-fairness/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ru/3-Web-App/1-Web-App/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ru/4-Classification/1-Introduction/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ru/5-Clustering/2-K-Means/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ru/6-NLP/1-Introduction-to-NLP/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ru/7-TimeSeries/1-Introduction/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ru/7-TimeSeries/3-SVR/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ru/8-Reinforcement/2-Gym/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ru/9-Real-World/2-Debugging-ML-Models/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ru/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/ru/for-teachers.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/sw/1-Introduction/1-intro-to-ML/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/sw/1-Introduction/3-fairness/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/sw/2-Regression/1-Tools/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/sw/2-Regression/1-Tools/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/sw/2-Regression/3-Linear/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/sw/4-Classification/3-Classifiers-2/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/sw/4-Classification/4-Applied/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/sw/5-Clustering/1-Visualize/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/sw/6-NLP/5-Hotel-Reviews-2/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/sw/7-TimeSeries/3-SVR/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/sw/8-Reinforcement/1-QLearning/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/sw/8-Reinforcement/2-Gym/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/sw/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/sw/TRANSLATIONS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/tr/1-Introduction/3-fairness/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/tr/2-Regression/1-Tools/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/tr/2-Regression/2-Data/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/tr/2-Regression/3-Linear/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/tr/6-NLP/data/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/tr/7-TimeSeries/2-ARIMA/solution/R/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/tr/9-Real-World/1-Applications/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/tr/9-Real-World/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/zh/1-Introduction/3-fairness/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/zh/1-Introduction/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/zh/2-Regression/3-Linear/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/zh/2-Regression/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/zh/5-Clustering/1-Visualize/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/zh/5-Clustering/2-K-Means/assignment.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/zh/5-Clustering/2-K-Means/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/zh/6-NLP/3-Translation-Sentiment/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/zh/6-NLP/4-Hotel-Reviews-1/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ML-For-Beginners-main/translations/zh/8-Reinforcement/1-QLearning/solution/Julia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ml-from-scratch-master/01 Linear Regression using Least Squares/Linear Regression using Least Squares.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ml-from-scratch-master/02 Linear Regression using Gradient Descent/output1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/ml-from-scratch-master/03 Linear Regression in 2 minutes/.ipynb_checkpoints/Linear Regression In 6 lines-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-from-scratch-master/01 Linear Regression using Least Squares/dataset/headbrain.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-from-scratch-master/02 Linear Regression using Gradient Descent/animation1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml-from-scratch-master/03 Linear Regression in 2 minutes/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/unicamp/002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_exercicios/ex01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scikit-learn/1. Supervised learning/1.1. Linear Models/LinearRegression/LinearRegressionv2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scikit-learn/normalizacao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seaborn/04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilitarios/exemplo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -617,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "wilsonreis"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;wilsonreis&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/wilsonreis/python.git",
-    "accountId": "a0842bfa-b4c0-467b-82e1-a269161a2d93"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/wilsonreis/python.git&quot;,
+    &quot;accountId&quot;: &quot;a0842bfa-b4c0-467b-82e1-a269161a2d93&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/.venv/Lib/site-packages/debugpy/_vendored/pydevd/pydevd_attach_to_process/winappdbg/textio.py" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -640,155 +46,156 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python tests.Doctests in frame.executor": "Run",
-    "Python tests.Doctests in generic.executor": "Run",
-    "Python.001.executor": "Run",
-    "Python.002.executor": "Run",
-    "Python.003.executor": "Debug",
-    "Python.004.executor": "Run",
-    "Python.005.executor": "Run",
-    "Python.006.executor": "Run",
-    "Python.007.executor": "Run",
-    "Python.01 - RegressaoLogistica.executor": "Run",
-    "Python.01 - RegressaoLogisticaCorrigido.executor": "Run",
-    "Python.01.executor": "Run",
-    "Python.01_sao_carlos.executor": "Run",
-    "Python.01_v02.executor": "Run",
-    "Python.01_v03.executor": "Run",
-    "Python.01_v2.executor": "Run",
-    "Python.01_v3.executor": "Run",
-    "Python.02 - Support Vector Machines.executor": "Run",
-    "Python.02.executor": "Run",
-    "Python.03.executor": "Run",
-    "Python.03_corrigindo.executor": "Run",
-    "Python.04.executor": "Run",
-    "Python.04_corrigindo.executor": "Run",
-    "Python.05.executor": "Run",
-    "Python.05v2.executor": "Run",
-    "Python.06.executor": "Run",
-    "Python.07.executor": "Run",
-    "Python.08.executor": "Run",
-    "Python.09.executor": "Run",
-    "Python.10.executor": "Run",
-    "Python.11.executor": "Run",
-    "Python.12.executor": "Run",
-    "Python.13.executor": "Run",
-    "Python.AnaliseSentimento.executor": "Run",
-    "Python.BagOfWords.executor": "Run",
-    "Python.Comparacao.executor": "Run",
-    "Python.FuncaoSingma.executor": "Run",
-    "Python.Linear Regression using Least Squares.executor": "Run",
-    "Python.LinearRegression.executor": "Run",
-    "Python.LinearRegressionv2.executor": "Run",
-    "Python.LinearRegressionv3.executor": "Run",
-    "Python.LoadDataset.executor": "Run",
-    "Python.Model.executor": "Run",
-    "Python.Método de Eliminação de Gauss.executor": "Run",
-    "Python.RandomForest.executor": "Run",
-    "Python.algoritimo.executor": "Run",
-    "Python.algoritimo02.executor": "Run",
-    "Python.algoritimo03.executor": "Run",
-    "Python.analise_estatistica_gemini.executor": "Run",
-    "Python.api.executor": "Run",
-    "Python.api_com_link.executor": "Run",
-    "Python.api_com_link_v2.executor": "Run",
-    "Python.api_com_link_v3.executor": "Run",
-    "Python.arvore_decisao_load_iris.executor": "Run",
-    "Python.arvore_decisao_load_iris_comentada.executor": "Run",
-    "Python.aula01.executor": "Run",
-    "Python.biblioteca.executor": "Run",
-    "Python.break_continue.executor": "Run",
-    "Python.calculo.executor": "Run",
-    "Python.calculo1.executor": "Run",
-    "Python.chamador_classe.executor": "Run",
-    "Python.chamando_calculos.executor": "Run",
-    "Python.chamando_calculosV2.executor": "Run",
-    "Python.chamando_funcoes.executor": "Run",
-    "Python.classe.executor": "Run",
-    "Python.classificacao_todas.executor": "Run",
-    "Python.classificacao_todas_relatorio.executor": "Run",
-    "Python.classificacao_todas_relatorio_v2.executor": "Run",
-    "Python.client_classe_simple_linear_regression.executor": "Run",
-    "Python.compressao.executor": "Run",
-    "Python.comprovacao_formula.executor": "Run",
-    "Python.comprovacao_formula_02.executor": "Run",
-    "Python.comprovacao_formula_03.executor": "Run",
-    "Python.comprovacao_formula_04_matematicamente.executor": "Run",
-    "Python.comprovacao_formula_04_matematicamente_com_ruido.executor": "Run",
-    "Python.csv_to_html.executor": "Run",
-    "Python.dados_numericos.executor": "Run",
-    "Python.densidade_gaussiana.executor": "Run",
-    "Python.desvio_padrao_com_pandas.executor": "Run",
-    "Python.distancia_ponto_reta.executor": "Run",
-    "Python.erro_padrao_com_pandas.executor": "Run",
-    "Python.estrutura_ml_1.executor": "Run",
-    "Python.ex01.executor": "Run",
-    "Python.fatorado.executor": "Run",
-    "Python.funcao_sigmoide.executor": "Run",
-    "Python.graphics.executor": "Run",
-    "Python.import.executor": "Run",
-    "Python.importador.executor": "Run",
-    "Python.limite.executor": "Run",
-    "Python.limite01.executor": "Run",
-    "Python.limite02.executor": "Run",
-    "Python.lixo.executor": "Run",
-    "Python.logistic_regression.executor": "Run",
-    "Python.logistic_regression_01.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.matriz.executor": "Run",
-    "Python.matriz1.executor": "Run",
-    "Python.matriz_multiplica_01.executor": "Run",
-    "Python.matriz_soma_01.executor": "Run",
-    "Python.media_populacao.executor": "Run",
-    "Python.memoria_funcionamento_referencia.executor": "Run",
-    "Python.minha_funcao.executor": "Run",
-    "Python.mostra_base_dados_load_iris.executor": "Run",
-    "Python.multivalorada.executor": "Run",
-    "Python.multivalorada_02.executor": "Run",
-    "Python.normalization.executor": "Run",
-    "Python.normalize_01.executor": "Run",
-    "Python.normalize_02.executor": "Run",
-    "Python.normalize_03.executor": "Run",
-    "Python.outliers_remove.executor": "Run",
-    "Python.pandar_csv.executor": "Run",
-    "Python.perceptron_geeksforgeeks.executor": "Run",
-    "Python.perceptron_geeksforgeeks_02.executor": "Run",
-    "Python.perceptron_geeksforgeeks_02_gemini.executor": "Run",
-    "Python.regressao_linear_01.executor": "Run",
-    "Python.regressao_linear_01_corrigido.executor": "Run",
-    "Python.regressao_logistica.executor": "Run",
-    "Python.regressao_logistica_gemini.executor": "Run",
-    "Python.sao_carlos_01.executor": "Run",
-    "Python.sao_carlos_01_comentado.executor": "Debug",
-    "Python.sao_carlos_01_fluxo_debug.executor": "Debug",
-    "Python.sao_carlos_02_normalizado.executor": "Run",
-    "Python.script.executor": "Run",
-    "Python.seed.executor": "Run",
-    "Python.shape.executor": "Run",
-    "Python.sigmoide.executor": "Run",
-    "Python.split_pdf.executor": "Run",
-    "Python.taxa_variacao_curva_qq.executor": "Run",
-    "Python.taxa_variacao_curva_qq_1.executor": "Run",
-    "Python.taxa_variacao_paraboloa.executor": "Run",
-    "Python.test_bagging.executor": "Run",
-    "Python.teste.executor": "Run",
-    "Python.tradutor.executor": "Run",
-    "Python.tradutor_corrigido.executor": "Run",
-    "Python.tradutor_pdf.executor": "Run",
-    "Python.uma_linha.executor": "Run",
-    "Python.visualizacao.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.codeium.enabled": "true",
-    "full.screen.before.presentation.mode": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/A683036/PyCharmMiscProject/gemini_aprendizado/01 - aprendizado supervisionado/01 - classificacao",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Doctests in frame.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Doctests in generic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.003.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01 - RegressaoLogistica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01 - RegressaoLogisticaCorrigido.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_sao_carlos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_v02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_v03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_v3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02 - Support Vector Machines.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_corrigindo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_corrigindo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AnaliseSentimento.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BagOfWords.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Comparacao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FuncaoSingma.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Linear Regression using Least Squares.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LinearRegression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LinearRegressionv2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LinearRegressionv3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LoadDataset.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Método de Eliminação de Gauss.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RandomForest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.algoritimo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.algoritimo02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.algoritimo03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.analise_estatistica_gemini.executor&quot;: &quot;Run&quot;,
+    &quot;Python.api.executor&quot;: &quot;Run&quot;,
+    &quot;Python.api_com_link.executor&quot;: &quot;Run&quot;,
+    &quot;Python.api_com_link_v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.api_com_link_v3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arvore_decisao_load_iris.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arvore_decisao_load_iris_comentada.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.biblioteca.executor&quot;: &quot;Run&quot;,
+    &quot;Python.break_continue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculo1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chamador_classe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chamando_calculos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chamando_calculosV2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chamando_funcoes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classificacao_todas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classificacao_todas_relatorio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classificacao_todas_relatorio_v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.client_classe_simple_linear_regression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.compressao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.comprovacao_formula.executor&quot;: &quot;Run&quot;,
+    &quot;Python.comprovacao_formula_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.comprovacao_formula_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.comprovacao_formula_04_matematicamente.executor&quot;: &quot;Run&quot;,
+    &quot;Python.comprovacao_formula_04_matematicamente_com_ruido.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csv_to_html.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dados_numericos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.densidade_gaussiana.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desvio_padrao_com_pandas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.distancia_ponto_reta.executor&quot;: &quot;Run&quot;,
+    &quot;Python.erro_padrao_com_pandas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.estrutura_ml_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fatorado.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funcao_sigmoide.executor&quot;: &quot;Run&quot;,
+    &quot;Python.graphics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.import.executor&quot;: &quot;Run&quot;,
+    &quot;Python.importador.executor&quot;: &quot;Run&quot;,
+    &quot;Python.limite.executor&quot;: &quot;Run&quot;,
+    &quot;Python.limite01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.limite02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lixo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.logistic_regression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.logistic_regression_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matriz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matriz1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matriz_multiplica_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matriz_soma_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.media_populacao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.memoria_funcionamento_referencia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.minha_funcao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mostra_base_dados_load_iris.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multivalorada.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multivalorada_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.normalization.executor&quot;: &quot;Run&quot;,
+    &quot;Python.normalize_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.normalize_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.normalize_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.outliers_remove.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pandar_csv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.perceptron_geeksforgeeks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.perceptron_geeksforgeeks_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.perceptron_geeksforgeeks_02_gemini.executor&quot;: &quot;Run&quot;,
+    &quot;Python.regressao_linear_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.regressao_linear_01_corrigido.executor&quot;: &quot;Run&quot;,
+    &quot;Python.regressao_logistica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.regressao_logistica_gemini.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sao_carlos_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sao_carlos_01_comentado.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.sao_carlos_01_fluxo_debug.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.sao_carlos_02_normalizado.executor&quot;: &quot;Run&quot;,
+    &quot;Python.script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.seed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shape.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sigmoide.executor&quot;: &quot;Run&quot;,
+    &quot;Python.split_pdf.executor&quot;: &quot;Run&quot;,
+    &quot;Python.taxa_variacao_curva_qq.executor&quot;: &quot;Run&quot;,
+    &quot;Python.taxa_variacao_curva_qq_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.taxa_variacao_paraboloa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_bagging.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tradutor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tradutor_corrigido.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tradutor_pdf.executor&quot;: &quot;Run&quot;,
+    &quot;Python.uma_linha.executor&quot;: &quot;Run&quot;,
+    &quot;Python.visualizacao.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/A683036/PyCharmMiscProject/gemini_aprendizado/01 - aprendizado supervisionado/01 - classificacao&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\A683036\PyCharmMiscProject\gemini_aprendizado\01 - aprendizado supervisionado\01 - classificacao" />
