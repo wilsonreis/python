@@ -1,0 +1,16 @@
+import numpy as np
+
+
+
+def imprimir_propriedades_matriz(matriz):
+    print("Tipo do objeto:", type(matriz))
+    print("Valor do objeto:", matriz)
+    print("Número de dimensões do objeto:", matriz.ndim)
+    print("Tamanho do objeto (número de elementos):", matriz.size)
+    print("Forma do objeto (dimensões):", matriz.shape)
+
+obj = np.array([[1, 2, 3]])
+imprimir_propriedades_matriz(obj)
+
+obj = np.array([[1, 2, 3], [4, 5, 6]])
+imprimir_propriedades_matriz(obj)

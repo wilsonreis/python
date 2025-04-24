@@ -1,0 +1,37 @@
+import numpy as np
+A = [[6.2, 7.1, 6.8, 8.0], [5.7, 6.4, 7.0, 7.3], [7.2, 8.2, 6.9, 7.8]]
+for linha in range(3):
+    print(A[linha])
+
+for coluna in range(4):
+    print("Linha:", linha+1, "Coluna:", coluna+1, "Valor armazenado:", A[linha]
+    [coluna])
+
+
+for i, linha in enumerate(A):
+    for j, valor in enumerate(linha):
+        print(f"Linha {i}, Coluna {j}: {valor}")
+
+
+for i, linha in enumerate(A):
+    for j, valor in enumerate(linha):
+        print(f"Linha {i}, Coluna {j}: {valor}")
+
+A_array = np.array(A)
+
+print(A_array.shape)  # Saída: (3, 4)
+num_linhas = A_array.shape[0]
+num_colunas = A_array.shape[1]
+
+for i in range(num_linhas):
+    for j in range(num_colunas):
+        print(f"Linha {i}, Coluna {j}: {A[i][j]}")
+
+
+
+
+import biblioteca as bib
+A_array = np.array(A)
+bib.imprimir(A_array)
+
+

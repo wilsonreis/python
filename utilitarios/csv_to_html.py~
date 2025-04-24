@@ -1,0 +1,67 @@
+import csv
+from jinja2 import Template
+
+# Template HTML para a tabela
+html_template = """
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSV to HTML</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                {% for header in headers %}
+                <th>{{ header }}</th>
+                {% endfor %}
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in rows %}
+            <tr>
+                {% for cell in row %}
+                <td>{{ cell }}</td>
+                {% endfor %}
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
+"""
+
+def csv_to_html(csv_file_path, html_file_path):
+    # Lê o arquivo CSV
+    with open(csv_file_path, newline='', encoding='utf-8') as csvfile:
+        reader = csv.reader(csvfile)
+        headers = next(reader)  # Lê o cabeçalho
+        rows = list(reader)  # Lê as linhas restantes
+
+    # Renderiza o template HTML com os dados do CSV
+    template = Template(html_template)
+    html_content = template.render(headers=headers, rows=rows)
+
+    # Salva o conteúdo HTML em um arquivo
+    with open(html_file_path, 'w', encoding='utf-8') as htmlfile:
+        htmlfile.write(html_content)
+
+# Exemplo de uso
+csv_to_html('exemplo.csv', 'exemplo.html')
+

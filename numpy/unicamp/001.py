@@ -1,0 +1,8 @@
+import numpy as np
+
+obj = np.array([1, 2, 3])
+print(type(obj))
+print(obj)
+print(obj.ndim)
+print(obj.size)
+print(obj.shape)

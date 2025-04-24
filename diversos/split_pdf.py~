@@ -1,0 +1,13 @@
+import PyPDF2
+
+with open('C:\w\p\matematica_estatistica\openlearninglibrary\6.042J_Mathematics for Computer Science.pdf', 'rb') as f:
+    pdf = PyPDF2.PdfFileReader(f)
+
+parte1 = pdf.getPage(0).extractText()
+parte2 = pdf.getPage(1).extractText()
+
+with open('parte1.pdf', 'wb') as f:
+    f.write(parte1)
+
+with open('parte2.pdf', 'wb') as f:
+    f.write(parte2)

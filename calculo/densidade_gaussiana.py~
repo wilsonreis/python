@@ -1,0 +1,19 @@
+import numpy as np
+
+# Define a função de distribuição normal
+def normal_dist(x, mean, sd):
+    # Cálculo da densidade de probabilidade da distribuição normal
+    # A fórmula é: (1/√(2πσ^2)) * exp(-0.5 * ((x-μ)/σ)^2)
+    prob_density = (1 / (np.sqrt(2 * np.pi * sd**2))) * np.exp(-0.5 * ((x - mean) / sd)**2)
+    return prob_density
+
+# Define os parâmetros da distribuição normal
+mean = 0  # Média (μ)
+sd = 1  # Desvio padrão (σ)
+x = 1  # Valor de x para calcular a densidade de probabilidade
+
+# Chama a função de distribuição normal com os parâmetros definidos
+result = normal_dist(x, mean, sd)
+
+# Imprime o resultado
+print(result)

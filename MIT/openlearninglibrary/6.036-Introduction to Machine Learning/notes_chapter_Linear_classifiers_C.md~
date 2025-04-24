@@ -1,0 +1,20 @@
+Um classificador binário é basicamente uma função que pega dados de entrada (representados por um vetor em um espaço d-dimensional, ou seja, com 'd' características) e os classifica em uma de duas categorias: -1 ou +1.
+
+x → h → y
+
+Podemos pensar no 'h' como o nome que damos a essa função classificadora, também chamada de hipótese. Então, o processo de classificação se resume a aplicar essa função 'h' aos dados de entrada para obter a categoria prevista (-1 ou +1).
+
+Interpretando a notação:
+
+Rd → {−1, +1}
+
+Rd: Representa o espaço de entrada, onde cada ponto nesse espaço é um vetor com 'd' dimensões (características). Por exemplo, se 'd' for 2, cada ponto de entrada teria duas características, como altura e peso de uma pessoa.
+{−1, +1}: Representa as duas classes possíveis para a saída do classificador. Podem representar qualquer coisa, como "sim" ou "não", "verdadeiro" ou "falso", "gato" ou "cachorro", etc.
+h: É a função classificadora, também chamada de hipótese. Ela recebe um vetor de entrada (pertencente a Rd) e retorna uma das duas classes (-1 ou +1).
+h: Rd → {−1, +1}: Esta notação indica que 'h' é uma função que mapeia (transforma) um elemento do espaço Rd em um elemento do conjunto {−1, +1}.
+Em resumo:
+
+A notação descreve um classificador binário que recebe dados de entrada com 'd' características e os classifica em uma de duas categorias (-1 ou +1) usando uma função 'h' (hipótese).
+
+--------------------------------
+

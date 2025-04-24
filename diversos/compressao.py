@@ -1,0 +1,37 @@
+import time
+
+start_time = time.perf_counter_ns()
+myList = [i for i in range(0, 1000)]
+end_time = time.perf_counter_ns()
+
+tempo_total = end_time - start_time
+print(f"Tempo total: {tempo_total} nanosegundos")
+
+start_time = time.perf_counter_ns()
+otherList = [2 * j + 3 for j in range(4, 7)]
+end_time = time.perf_counter_ns()
+
+tempo_total = end_time - start_time
+print(f"Tempo total: {tempo_total} nanosegundos")
+
+minha_lista = [i for i in range(4, 7)]
+print(minha_lista)
+print(type(minha_lista))
+
+meu_conjunto = {i for i in range(4, 7)}
+print(meu_conjunto)
+print(type(meu_conjunto))
+
+minha_tupla = (i for i in range(4, 7))
+print(minha_tupla)
+print(type(minha_tupla))
+
+
+x = [[i + j for i in range (0,4)] for j in range (0,3)]
+print(x)
+
+z = [i  for i in range (0,4)]
+print(z)
+
+d = { i : 4*i+ 7 for i in range(0,4) }
+print(d)

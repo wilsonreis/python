@@ -1,0 +1,15 @@
+class MyClass:
+    def __init__(self, a = 0, b = 0):
+        self.a = a
+        self.b = b
+
+    def calculate(self, value):
+        return value * self.a - self.b
+
+def main():
+    mc = MyClass(2, 3)
+    print(mc.a, mc.b)
+    result = mc.calculate(4)
+    print(result)
+
+main()

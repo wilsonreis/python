@@ -1,0 +1,17 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Sample data points
+x = np.array([0, 1, 2, 3, 4, 5])
+y = np.array([2, 3, 5, 7, 11, 13])
+
+# Ajustar um polinômio cúbico (grau = 3)
+# Fit a cubic polynomial (degree = 3)
+coefficients = np.polyfit(x, y, 3)
+y_fit = np.polyval(coefficients, x)
+
+# Plot original data and the cubic fit
+plt.scatter(x, y, label='Original Data', color='red')
+plt.plot(x, y_fit, label='Cubic Fit', color='purple')
+plt.legend()
+plt.show()

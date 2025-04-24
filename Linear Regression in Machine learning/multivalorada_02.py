@@ -1,0 +1,43 @@
+import numpy as np
+from sklearn.linear_model import LinearRegression
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D  # Import necessário para gráficos 3D
+
+
+# Define os dados com 2 features (X) e 1 output (y)
+# X terá 2 features (colunas) e 100 amostras (linhas)
+# y terá 1 valor de saída (coluna) e 100 amostras (linhas)
+num_samples = 100
+num_features = 2  # Alterado para 2 features
+num_outputs = 1   # Alterado para 1 output
+
+# Gera dados aleatórios para X e y
+X = np.random.rand(num_samples, num_features)
+y = np.random.rand(num_samples, num_outputs)
+
+# Cria o modelo de regressão linear multivariada
+reg = LinearRegression()
+
+# Treina o modelo com os dados
+reg.fit(X, y)
+
+# Faz previsões usando o modelo treinado
+y_pred = reg.predict(X)
+
+# Imprime os coeficientes da regressão
+print("Coeficientes de inclinação (β1):", reg.coef_)
+print("Intercepto (β0):", reg.intercept_)
+
+
+# Visualização 3D
+fig = plt.figure()
+ax = fig.add_subplot(111, projection='3d')
+ax.scatter(X[:, 0], X[:, 1], y, color='blue', label='Dados Reais')  # Pontos de dados reais
+ax.plot_trisurf(X[:, 0], X[:, 1], y_pred.flatten(), color='red', alpha=0.5, label='Plano de Regressão') # Plano de regressão
+ax.set_xlabel('Feature 1')
+ax.set_ylabel('Feature 2')
+ax.set_zlabel('Saída')
+plt.title('Regressão Linear Multivariada (2 Features, 1 Output)')
+plt.legend()  # Adiciona legenda
+plt.show()
+print("y_pred : ", y_pred)

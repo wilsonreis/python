@@ -1,0 +1,15 @@
+from classe import MyClass  # supondo que a classe MyClass esteja em um arquivo chamado my_class.py
+
+def main():
+    mc = MyClass(2, 3)
+    print(mc.a, mc.b)
+    result = mc.calculate(4)
+    print(result)
+
+    mc = MyClass()
+    print(mc.a, mc.b)
+    result = mc.calculate(4)
+    print(result)
+
+if __name__ == '__main__':
+    main()

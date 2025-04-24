@@ -1,0 +1,57 @@
+# prompt: Consegue refatorar incluindo a plotagem com a divisão de classes?
+
+import cv2
+from google.colab.patches import cv2_imshow
+import matplotlib.pyplot as plt
+
+# Carrega a imagem
+imagem = cv2.imread('estrutura.jpg')
+
+# Converte a imagem para escala de cinza
+cinza = cv2.cvtColor(imagem, cv2.COLOR_BGR2GRAY)
+
+# Aplica um filtro de suavização (blur) para reduzir o ruído
+suavizada = cv2.GaussianBlur(cinza, (5, 5), 0)
+
+# Detecta bordas usando o algoritmo Canny
+bordas = cv2.Canny(suavizada, 50, 150)
+
+# Encontra contornos na imagem de bordas
+contornos, hierarquia = cv2.findContours(bordas, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+
+# Cria listas para armazenar os contornos e as classes
+contornos_retangulos = []
+contornos_outros = []
+
+# Loop pelos contornos encontrados
+for contorno in contornos:
+  # Aproxima o contorno por um polígono
+  perimetro = cv2.arcLength(contorno, True)
+  aproximacao = cv2.approxPolyDP(contorno, 0.04 * perimetro, True)
+
+  # Se o contorno tem 4 vértices (provavelmente um retângulo), adiciona à lista de retângulos
+  if len(aproximacao) == 4:
+    contornos_retangulos.append(contorno)
+  else:
+    contornos_outros.append(contorno)
+
+
+# Plota os contornos divididos por classes
+imagem_com_retangulos = imagem.copy()
+imagem_com_outros = imagem.copy()
+
+for contorno in contornos_retangulos:
+    cv2.drawContours(imagem_com_retangulos, [contorno], -1, (0, 255, 0), 3)
+
+for contorno in contornos_outros:
+    cv2.drawContours(imagem_com_outros, [contorno], -1, (255, 0, 0), 3)
+
+# Exibe as imagens com as classes de contornos
+plt.figure(figsize=(12, 6))
+plt.subplot(1, 2, 1)
+plt.imshow(cv2.cvtColor(imagem_com_retangulos, cv2.COLOR_BGR2RGB))
+plt.title("Contornos Retangulares")
+plt.subplot(1, 2, 2)
+plt.imshow(cv2.cvtColor(imagem_com_outros, cv2.COLOR_BGR2RGB))
+plt.title("Outros Contornos")
+plt.show()

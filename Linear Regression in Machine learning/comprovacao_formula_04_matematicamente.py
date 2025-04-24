@@ -1,0 +1,32 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Define os dados
+X = np.array([0, 1, 2])
+y = np.array([0, 2, 4])  # y = 2x para inclinação 2
+# y = β0 + β1*x + ε
+
+# Calcula a inclinação (β1) e o intercepto (β0)
+# β1 = (Σ(xi - x̄)(yi - ȳ)) / (Σ(xi - x̄)²)
+# β0 = ȳ - β1 * x̄
+
+x_mean = np.mean(X)
+y_mean = np.mean(y)
+
+beta1 = np.sum((X - x_mean) * (y - y_mean)) / np.sum((X - x_mean)**2)
+beta0 = y_mean - beta1 * x_mean
+
+# Imprime os coeficientes
+print("Coeficiente de inclinação (β1):", beta1)
+print("Intercepto (β0):", beta0)
+
+# Calcula os valores de y previstos
+y_pred = beta1 * X + beta0
+
+# Plota os dados e a reta de regressão
+plt.scatter(X, y)
+plt.plot(X, y_pred, color='red')
+plt.xlabel('x')
+plt.ylabel('y')
+plt.title('Regressão Linear - NumPy')
+plt.show()

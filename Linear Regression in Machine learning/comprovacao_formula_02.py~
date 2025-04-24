@@ -1,0 +1,23 @@
+from sklearn import linear_model
+import matplotlib.pyplot as plt
+
+reg = linear_model.LinearRegression()
+reg.fit([[0, 0], [1, 2], [2, 4]], [0, 1, 2])
+
+print("Coeficiente de inclinação (β1):", reg.coef_)
+print("Intercepto (β0):", reg.intercept_)
+
+# Gráfico de dispersão
+plt.scatter([0, 1, 2], [0, 2, 4])
+
+# Reta que melhor se enquadra
+x = [0, 2]
+y_pred = reg.predict([[0, 0], [1, 1], [2, 2]])
+
+# Gráfico de dispersão
+plt.scatter([0, 1, 2], [0, 2, 4])
+
+# Reta que melhor se enquadra
+plt.plot([0, 1, 2], y_pred, color='red')
+
+plt.show()

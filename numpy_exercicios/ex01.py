@@ -1,0 +1,20 @@
+import time
+# Make a regular Python list
+# with all the numbers up to one hundred million
+
+# Remember `range` doesn't include the last number,
+# so I have to go up to 100_000_001 to actually get all
+# the numbers from 1 to 100_000_000
+start_time = time.perf_counter_ns()
+one_to_one_hund_mil_list = list(range(1, 100_000_001))
+end_time = time.perf_counter_ns()
+tempo_total = end_time - start_time
+print(f"Tempo total: {tempo_total} nanosegundos")
+print(one_to_one_hund_mil_list[-1])
+
+# Now make a numpy vector
+# with all the numbers up to one hundred million
+
+import numpy as np
+
+one_to_one_hund_mil_vector = np.arange(1, 100_000_001)

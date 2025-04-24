@@ -1,0 +1,18 @@
+In this setting, the advertising budgets are input variables while sales input
+variable is an output variable. The input variables are typically denoted using the
+output
+variable
+symbol X, with a subscript to distinguish them. So X1 might be the TV
+budget, X2 the radio budget, and X3 the newspaper budget. The inputs
+go by diferent names, such as predictors, independent variables, features, predictor
+independent
+variable
+feature
+or sometimes just variables. The output variable—in this case, sales—is
+variable
+often called the response or dependent variable, and is typically denoted
+response
+dependent
+variable
+using the symbol Y . Throughout this book, we will use all of these terms
+interchangeably.

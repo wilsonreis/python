@@ -1,0 +1,16 @@
+
+O modelo linear citado no scikit-learn é o modelo de Regressão Linear, que é um dos modelos mais comuns em Machine Learning.
+A fórmula do modelo de Regressão Linear é a seguinte:
+**y = w^T x + b**
+onde:
+* **y** é a variável resposta (ou variável dependente)
+* **x** é a variável explicativa (ou variável independente)
+* **w** é o vetor de pesos (ou coeficientes) 
+* **b** é o termo de interceptação (ou bias) do modelo
+* **^T** denota a transposição do vetor **w**
+
+Em outras palavras, o modelo de Regressão Linear assume que a variável resposta **y** é uma combinação linear das variáveis explicativas **x**, com pesos **w** e um termo de interceptação **b**.
+A fórmula pode ser escrita de forma mais explícita como:
+**y = w1*x1 + w2*x2 + ... + wn\*xn + b**
+onde **w1**, **w2**, ..., **wn** são os coeficientes do modelo, e **x1**, **x2**, ..., **xn** são as variáveis explicativas.
+Essa é a fórmula básica do modelo de Regressão Linear, que é usada no scikit-learn e em muitas outras bibliotecas de Machine Learning.

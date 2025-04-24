@@ -1,0 +1,7 @@
+# Set up code checking
+import learntools
+from learntools.core import binder
+binder.bind(globals())
+from learntools.machine_learning.ex2 import ex2  # Importe apenas o que é necessário
+print("Setup Complete")
+from learntools.machine_learning.ex2 import ex2, outra_funcao

@@ -1,0 +1,8 @@
+import numpy as np
+import fibonacci as fibo
+from scipy import optimize
+
+fibo.fib(100)
+optimize.fib(100)
+print(np.pi)
+

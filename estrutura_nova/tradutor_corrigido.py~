@@ -1,0 +1,30 @@
+import asyncio
+import json
+from googletrans import Translator
+
+async def translate_file(file_path):
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            english_text = f.read()
+
+        translator = Translator()
+        translation = await translator.translate(english_text, dest='pt')
+        print(translation.text)
+
+    except FileNotFoundError:
+        print(f"File not found: {file_path}")
+        print("Make sure the file is in the correct location and the path is accurate.")
+
+    except (json.JSONDecodeError, TypeError):
+        print("Error decoding JSON response or unexpected response format.")
+        print("This could be due to:")
+        print(" - A temporary issue with the Google Translate API.")
+        print(" - API rate limits.")
+        print(" - An invalid input.")
+        print("Please try again later or check your input.")
+
+async def main():
+    file_path = 'path/to/file.txt'
+    await translate_file(file_path)
+
+asyncio.run(main())

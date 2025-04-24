@@ -1,0 +1,80 @@
+Classificadores Lineares que Passam pela Origem: Uma Aula Detalhada
+Classificadores lineares são modelos de aprendizado de máquina usados para classificar dados em diferentes categorias. Eles funcionam encontrando uma função linear que separa os dados em diferentes classes. Quando essa função linear passa pela origem (0,0), chamamos de "classificadores lineares que passam pela origem".
+
+Nesta aula detalhada, vamos explorar esse tipo de classificador, abordando os seguintes tópicos:
+
+1. Introdução:
+
+O que são classificadores lineares?
+Por que usar classificadores lineares que passam pela origem?
+Exemplos de aplicações.
+2. Conceitos Matemáticos:
+
+Função linear e hiperplano.
+Vetor de pesos e produto escalar.
+Margem e vetores de suporte.
+3. Treinamento do Classificador:
+
+O problema de otimização.
+Algoritmos de treinamento (e.g., Perceptron, SGD).
+Regularização e overfitting.
+4. Avaliação do Classificador:
+
+Métricas de desempenho (e.g., acurácia, precisão, recall).
+Conjuntos de treinamento, validação e teste.
+Curva ROC e AUC.
+5. Exemplos Práticos:
+
+Implementação em Python com bibliotecas como scikit-learn.
+Aplicação em problemas de classificação binária e multiclasse.
+Visualização dos resultados.
+1. Introdução:
+
+Classificadores lineares são modelos simples e eficientes para problemas de classificação. Quando sabemos que os dados são linearmente separáveis e que a origem é um ponto relevante para a separação, podemos usar classificadores lineares que passam pela origem. Isso simplifica o modelo e pode melhorar o desempenho em alguns casos.
+
+Exemplos de aplicações incluem:
+
+Classificação de imagens em categorias (e.g., gato vs. cachorro).
+Detecção de spam em emails.
+Diagnóstico médico baseado em sintomas.
+2. Conceitos Matemáticos:
+
+Um classificador linear que passa pela origem é representado por uma função linear da forma:
+
+ 
+f(x) = w.x
+Use code with caution
+Onde:
+
+x é o vetor de características da entrada.
+w é o vetor de pesos do classificador.
+. representa o produto escalar.
+Essa função define um hiperplano que passa pela origem e separa os dados em duas classes. O sinal de f(x) determina a classe da entrada x.
+
+3. Treinamento do Classificador:
+
+O treinamento do classificador consiste em encontrar o vetor de pesos w que melhor separa os dados. Isso é feito através de um problema de otimização que minimiza uma função de custo. Algoritmos como Perceptron e SGD (Stochastic Gradient Descent) são usados para encontrar a solução ótima.
+
+4. Avaliação do Classificador:
+
+Após o treinamento, o classificador é avaliado usando métricas de desempenho como acurácia, precisão e recall. É importante usar conjuntos de dados separados para treinamento, validação e teste para evitar overfitting.
+
+5. Exemplos Práticos:
+
+Em Python, podemos usar a biblioteca scikit-learn para implementar classificadores lineares que passam pela origem. A classe SGDClassifier com a opção fit_intercept=False pode ser usada para esse fim.
+
+ 
+from sklearn.linear_model import SGDClassifier
+
+# Criar o classificador
+clf = SGDClassifier(loss="perceptron", fit_intercept=False)
+
+# Treinar o classificador
+clf.fit(X_train, y_train)
+
+# Fazer previsões
+y_pred = clf.predict(X_test)
+Use code with caution
+Lembre-se de substituir X_train, y_train e X_test pelos seus dados de treinamento e teste.
+
+Espero que esta aula detalhada tenha sido útil para você entender os classificadores lineares que passam pela origem! Em caso de dúvidas, não hesite em perguntar.
