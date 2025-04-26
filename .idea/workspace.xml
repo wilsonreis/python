@@ -4,9 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24424a55-8777-4b73-9025-fb843a04045a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PyCharmMiscProject.iml" afterDir="false" />
+    <list default="true" id="24424a55-8777-4b73-9025-fb843a04045a" name="Changes" comment="iniciando">
+      <change afterPath="$PROJECT_DIR$/calculo/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculo/pdf/Calculo Volume I -Stewart_ptbr- Testes  Funções.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculo/pdf/Calculo Volume I -Stewart_ptbr- Testes Geometria Analítica.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculo/pdf/Calculo Volume I -Stewart_ptbr- Testes Álgebra.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculo/pdf/Calculo Volume I -Stewart_ptbr-Testes  Trigonometria.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculo/pdf/Calculo Volume I -Stewart_ptbr.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculo/pdf/calculo I - GuidorizziVol1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programa_estruturado_gemini/1 - Matemática para Ciência de Dados/1 - Álgebra Linear/1 - Conceitos básicos/1 - Definaçao vetor e matriz/1 - vetor e matriz.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programa_estruturado_gemini/1 - Matemática para Ciência de Dados/1 - Álgebra Linear/1 - Conceitos básicos/2 - Multiplicação de Matrizes/1 - multiplicação matrizes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programa_estruturado_gemini/1 - Matemática para Ciência de Dados/1 - Álgebra Linear/1 - Conceitos básicos/2 - Multiplicação de Matrizes/1 - multiplicação_matrizes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programa_estruturado_gemini/1 - Matemática para Ciência de Dados/1 - Álgebra Linear/1 - Conceitos básicos/2 - Multiplicação de Matrizes/2 - multiplicação matrizes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programa_estruturado_gemini/1 - Matemática para Ciência de Dados/1 - Álgebra Linear/1 - Conceitos básicos/2 - Multiplicação de Matrizes/2 - multiplicação_matrizes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programa_estruturado_gemini/1 - Matemática para Ciência de Dados/1 - Álgebra Linear/1 - Conceitos básicos/2 - Multiplicação de Matrizes/3 - multiplicacao_matrizes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programa_estruturado_gemini/1 - Matemática para Ciência de Dados/1 - Álgebra Linear/1 - Conceitos básicos/2 - Multiplicação de Matrizes/4 - multiplicacao_matrizes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programa_estruturado_gemini/1 - Matemática para Ciência de Dados/1 - Álgebra Linear/1 - Conceitos básicos/3 - Implicações matemáticas na multipl matrizes/1 - impicações.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programa_estruturado_gemini/1 - Matemática para Ciência de Dados/1 - Álgebra Linear/1 - Conceitos básicos/3 - Implicações matemáticas na multipl matrizes/2 - implicacoes_exemplo_regressao_linear.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programa_estruturado_gemini/1 - Matemática para Ciência de Dados/1 - Álgebra Linear/1 - Conceitos básicos/3 - Implicações matemáticas na multipl matrizes/2 - implicacoes_exemplo_regressao_linear_corrigida.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programa_estruturado_gemini/1 - Matemática para Ciência de Dados/1 - Álgebra Linear/1 - Conceitos básicos/3 - Implicações matemáticas na multipl matrizes/3 - explicando o código e coluna 1s.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programa_estruturado_gemini/1 - Matemática para Ciência de Dados/1 - Álgebra Linear/1 - Conceitos básicos/3 - Implicações matemáticas na multipl matrizes/3 - regressao_linear_multipla_matriz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programa_estruturado_gemini/1 - Matemática para Ciência de Dados/1 - Álgebra Linear/links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programa_estruturado_gemini/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programa_estruturado_gemini/api_com_link_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programa_estruturado_gemini/api_com_link_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programa_estruturado_gemini/api_com_link_v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programa_estruturado_gemini/programa_estruturado.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gemini_aprendizado/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/gemini_aprendizado/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gemini_aprendizado/output/response.md" beforeDir="false" afterPath="$PROJECT_DIR$/gemini_aprendizado/output/response.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +55,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -36,12 +68,12 @@
     &quot;assignee&quot;: &quot;wilsonreis&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/wilsonreis/python.git&quot;,
-    &quot;accountId&quot;: &quot;a0842bfa-b4c0-467b-82e1-a269161a2d93&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/wilsonreis/python.git",
+    "accountId": "a0842bfa-b4c0-467b-82e1-a269161a2d93"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/.venv/Lib/site-packages/debugpy/_vendored/pydevd/pydevd_attach_to_process/winappdbg/textio.py" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -197,20 +229,21 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "com.codeium.enabled": "true",
     "full.screen.before.presentation.mode": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/A683036/PyCharmMiscProject/gemini_aprendizado/01 - aprendizado supervisionado/01 - classificacao",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/A683036/PyCharmMiscProject/calculo/pdf",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\A683036\PyCharmMiscProject\calculo\pdf" />
+      <recent name="C:\Users\A683036\PyCharmMiscProject\calculo" />
       <recent name="C:\Users\A683036\PyCharmMiscProject\gemini_aprendizado\01 - aprendizado supervisionado\01 - classificacao" />
       <recent name="C:\Users\A683036\PyCharmMiscProject\gemini_aprendizado" />
       <recent name="C:\Users\A683036\PyCharmMiscProject\estrutura_nova\Classificação\Regressão Logística" />
-      <recent name="C:\Users\A683036\PyCharmMiscProject\Curso-de-Machine-Learning-2025\Aula 1" />
-      <recent name="C:\Users\A683036\PyCharmMiscProject\gemini_aprendizado\01 - aprendizado supervisionado" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\A683036\PyCharmMiscProject\gemini_aprendizado\01 - aprendizado supervisionado\01 - classificacao" />
@@ -261,6 +294,11 @@
       </set>
     </attachedChunks>
   </component>
+  <component name="ShelveChangesManager" show_recycled="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -270,15 +308,40 @@
       <option name="presentableId" value="Default" />
       <updated>1738799943342</updated>
     </task>
+    <task id="LOCAL-00001" summary="iniciando">
+      <option name="closed" value="true" />
+      <created>1745535110908</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745535110908</updated>
+    </task>
+    <task id="LOCAL-00002" summary="iniciando">
+      <option name="closed" value="true" />
+      <created>1745535160074</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745535160074</updated>
+    </task>
+    <task id="LOCAL-00003" summary="iniciando">
+      <option name="closed" value="true" />
+      <created>1745535400346</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745535400346</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="iniciando" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="iniciando" />
+    <option name="LAST_COMMIT_MESSAGE" value="iniciando" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

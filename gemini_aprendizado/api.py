@@ -5,7 +5,7 @@ from google import genai
 client = genai.Client(api_key="AIzaSyDKnwYxtaWZ0-uvGrb1rgxPr3fT1BpahAA")
 response = client.models.generate_content(
     model="gemini-2.0-flash",
-    contents="Gostaria que me explicasse classification_report(y_test, y_pred)",
+    contents=   "Quero um bom editor de fórmulas matemáticas, estatística ... e que seja fácil de utilizar e gratuito",
 )
 
 # Crie um arquivo na pasta output
